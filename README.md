@@ -2,9 +2,9 @@ This code was based on a_star_algorithm from https://github.com/tjazerzen.
 
 Código alterado para a resolução da questão da matéria de inteligência artificial da Unisociesc - 2020/2
 Editado por: Emanoel Alves Junior
-Busca A* para encontrar o menor caminho entre duas cidades de Santa Catarina, próximas a florianópolis.
+Busca A* para encontrar o menor caminho entre duas cidades de Santa Catarina, próximas a Florianópolis.
 
-
+![alt text](https://github.com/Emanoeljunior/IA-A1/blob/main/grafo-prova-IA.png?raw=true)
 # a_star_algorithm
 Implementation of A* algorithm in python
 
